@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getUint256",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "hexType",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/YulTypes.sol": "YulTypes"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/YulTypes.sol": {
+			"keccak256": "0xbf1dc9270465e1206c43ccdd6f8428d58e7f4605dbd408ebb50487545b72a2f7",
+			"license": "MIH",
+			"urls": [
+				"bzz-raw://80acc1e6084e1a50558223c0d37293a4aff1ed1a517a150e12c9699acc7b3619",
+				"dweb:/ipfs/QmQv6h26wmxuPUKuZCRXS5qksqgdAagTNPFwWps16Nm488"
+			]
+		}
+	},
+	"version": 1
+}

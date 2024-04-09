@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getUint256",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/YulTypes.sol": "YuTypes"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/YulTypes.sol": {
+			"keccak256": "0x613aa8c69e34c5c6fbc66ec3951c28368d33f58f054d81f675ee566fa42b7114",
+			"license": "MIH",
+			"urls": [
+				"bzz-raw://8a6e12a06154ea985a02541f7c7986338f29de40b1d4af6a3d04594cfb263e73",
+				"dweb:/ipfs/QmZZbph75owjBjSTdWRu1xdcM68xTUZuT58eZm5at3FGxh"
+			]
+		}
+	},
+	"version": 1
+}
